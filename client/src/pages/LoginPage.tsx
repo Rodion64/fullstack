@@ -56,7 +56,7 @@ const LoginPage = () => {
           }}
           onClick={() => tryAuth()}
         >
-          Log in
+          Login
         </Button>
       </Card>
     </div>
